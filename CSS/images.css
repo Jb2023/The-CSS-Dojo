@@ -1,0 +1,29 @@
+.images .title {
+    background-image: url(../images/bike.png);
+    background-size: cover;
+    height: 95vh;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.images h1 {
+    margin-top: 0;
+    padding-top: 2vh;
+}
+
+.images .title p {
+    font-size: 1.4em;
+    color: black;
+    text-align: center;
+}
+
+.images .bottom p{
+    font-size: 1.4em;
+    color: white;
+    text-align: center;
+}
+
+.images img {
+    display: block;
+    margin: 5vh auto 5vh auto;
+}
